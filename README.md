@@ -2,7 +2,7 @@
 
 💻 I do everything in **Neovim** on **Arch Linux** — minimal, fast, and fully customized.
 
-> “I use  Arch, btw.”
+> “I use Arch, btw.”
 
 ---
 
